@@ -1,23 +1,27 @@
 <div align="center">
 
 ```
-                         /\_/\    ╔═══════════════════════════════════════╗
-                        ( o.o )   ║  ███████╗██╗   ██╗ ██████╗██╗  ██╗  ║
-                         > ^ <    ║  ██╔════╝╚██╗ ██╔╝██╔════╝██║  ██║  ║
-                        /|   |\   ║  ███████╗ ╚████╔╝ ██║     ███████║  ║
-                       (_|   |_)  ║  ╚════██║  ╚██╔╝  ██║     ██╔══██║  ║
-                    ~*  |     |   ║  ███████║   ██║   ╚██████╗██║  ██║  ║
-                        |_____|   ║  ╚══════╝   ╚═╝    ╚═════╝╚═╝  ╚═╝  ║
+                          /\_/\    ╔═══════════════════════════════════════╗
+                        ( o.o )   ║   ███████╗██╗   ██╗ ██████╗██╗  ██╗   ║
+                         > ^ <    ║   ██╔════╝╚██╗ ██╔╝██╔════╝██║  ██║   ║
+                        /|   |\   ║   ███████╗ ╚████╔╝ ██║     ███████║   ║
+                       (_|   |_)  ║   ╚════██║  ╚██╔╝  ██║     ██╔══██║   ║
+                      ~*|     |   ║   ███████║   ██║   ╚██████╗██║  ██║   ║
+                        |_____|   ║   ╚══════╝   ╚═╝    ╚═════╝╚═╝  ╚═╝   ║
                                   ╚═══════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=600&lines=%E2%94%82+sychoticdox+%E2%94%82;%E2%94%82+security+researcher+%E2%94%82;%E2%94%82+if+it+exists+it+can+be+automated+%E2%94%82;%E2%94%82+ctrl%2Bc+ctrl%2Bv+is+a+lifestyle+%E2%94%82" alt="Typing SVG" />
 
 ```
-          /\_/\
-    _____/ o o \     "it works on my machine."
-   |     __^__  \         — me, every single time
-   |____/     \__|
+
+
+        ,-""""""-.
+     /\j__/\  (  \`--.
+hjw  \`@_@'/  _)  >--.`.  "it works on my machine."
+    _{.:Y:_}_{{_,'    ) )   — me, every single time
+   {_}`-^{_} ```     (_/
+
 ```
 
 </div>
@@ -36,13 +40,13 @@
 
 ```
   ╔══════════════════════════════════════════════════╗
-  ║  > security research & automation               ║
-  ║  > python & go — two languages, zero patience   ║
+  ║  > security research & automation                ║
+  ║  > python & go — two languages, zero patience    ║
   ║  > osint tooling / credential analysis           ║
   ║  > telegram bots & api poking                    ║
   ║                                    /\_/\         ║
   ║  things i enjoy:                  ( ^.^ )        ║
-  ║  > cats, ascii art, cursed code   > ~ <         ║
+  ║  > cats, ascii art, cursed code    > ~ <         ║
   ║  > making boring tasks extinct    /|   |\        ║
   ╚══════════════════════════════════════════════════╝
 ```
