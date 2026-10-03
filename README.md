@@ -1,14 +1,15 @@
 <div align="center">
 
 ```
-                         /\_/\    ╔═══════════════════════════════════════╗
-                        ( o.o )   ║   ███████╗██╗   ██╗ ██████╗██╗  ██╗   ║
-                         > ^ <    ║   ██╔════╝╚██╗ ██╔╝██╔════╝██║  ██║   ║
-                        /|   |\   ║   ███████╗ ╚████╔╝ ██║     ███████║   ║
-                       (_|   |_)  ║   ╚════██║  ╚██╔╝  ██║     ██╔══██║   ║
-                      ~*|     |   ║   ███████║   ██║   ╚██████╗██║  ██║   ║
-                        |_____|   ║   ╚══════╝   ╚═╝    ╚═════╝╚═╝  ╚═╝   ║
-                                  ╚═══════════════════════════════════════╝
+                                         
+      /\_/\   +===================================+
+     ( o.o )  |  ___ _   _  ___ _  _   ___  ___   |
+      > ^ <   | / __| \ / |/ __| || | |   \/ _ \  |
+     /|   |\  | \__ \\ V /| (__| __ | | |) | (_)| |
+    (_|   |_) | |___/ |_|  \___|_||_| |___/ \___/  |
+   ~* |   |   |          @sychoticdox               |
+      |___|   +===================================+
+                                         
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=600&lines=%E2%94%82+sychoticdox+%E2%94%82;%E2%94%82+security+researcher+%E2%94%82;%E2%94%82+if+it+exists+it+can+be+automated+%E2%94%82;%E2%94%82+ctrl%2Bc+ctrl%2Bv+is+a+lifestyle+%E2%94%82" alt="Typing SVG" />
@@ -30,24 +31,24 @@
 <div align="center">
 
 ```
-  ┌──────────────────────────────────┐
-  │  $ cat /etc/sychoticdox/about    │
-  └──────────────────────────────────┘
+  +----------------------------------+
+  |  $ cat /etc/sychoticdox/about    |
+  +----------------------------------+
 ```
 
 </div>
 
 ```
-  ╔══════════════════════════════════════════════════╗
-  ║  > security research & automation                ║
-  ║  > python & go — two languages, zero patience    ║
-  ║  > osint tooling / credential analysis           ║
-  ║  > telegram bots & api poking                    ║
-  ║                                    /\_/\         ║
-  ║  things i enjoy:                  ( ^.^ )        ║
-  ║  > cats, ascii art, cursed code    > ~ <         ║
-  ║  > making boring tasks extinct    /|   |\        ║
-  ╚══════════════════════════════════════════════════╝
+  +==================================================+
+  |  > security research & automation                 |
+  |  > python & go -- two languages, zero patience    |
+  |  > osint tooling / credential analysis            |
+  |  > telegram bots & api poking                     |
+  |                                     /\_/\         |
+  |  things i enjoy:                   ( ^.^ )        |
+  |  > cats, ascii art, cursed code     > ~ <         |
+  |  > making boring tasks extinct     /|   |\        |
+  +==================================================+
 ```
 
 ---
@@ -55,9 +56,9 @@
 <div align="center">
 
 ```
-  ┌──────────────────────────────────┐
-  │  $ ls ~/projects/                │
-  └──────────────────────────────────┘
+  +----------------------------------+
+  |  $ ls ~/projects/                |
+  +----------------------------------+
 ```
 
 </div>
@@ -72,9 +73,9 @@
 <div align="center">
 
 ```
-  ┌──────────────────────────────────┐
-  │  $ neofetch --stack              │
-  └──────────────────────────────────┘
+  +----------------------------------+
+  |  $ neofetch --stack              |
+  +----------------------------------+
 ```
 
 </div>
@@ -94,9 +95,9 @@
 <div align="center">
 
 ```
-  ┌──────────────────────────────────┐
-  │  $ git log --oneline --stats     │
-  └──────────────────────────────────┘
+  +----------------------------------+
+  |  $ git log --oneline --stats     |
+  +----------------------------------+
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=sychoticdox&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=C084FC&title_color=C084FC&text_color=8b949e" width="48%" />
@@ -111,12 +112,16 @@
 <div align="center">
 
 ```
-         /\_/\
-        ( -.- )  zzZ
-         > ^ <
-        /|   |\    mass dm'ing your mass dm bot since 2024.
-       (_|   |_)   have a nice day, or don't. i'm a cat, not a cop.
+      /\_/\
+     ( -.- )  zzZ
+      > ^ <
+     /|   |\
+    (_|   |_)
 ```
+
+`mass dm'ing your mass dm bot since 2024`
+
+`have a nice day, or don't. i'm a cat, not a cop.`
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sychoticdox)
 [![Website](https://img.shields.io/badge/h04x.llc-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://h04x.llc)
