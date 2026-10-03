@@ -14,14 +14,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=600&lines=%E2%94%82+sychoticdox+%E2%94%82;%E2%94%82+security+researcher+%E2%94%82;%E2%94%82+if+it+exists+it+can+be+automated+%E2%94%82;%E2%94%82+ctrl%2Bc+ctrl%2Bv+is+a+lifestyle+%E2%94%82" alt="Typing SVG" />
 
 ```
-
-
-        ,-""""""-.
-     /\j__/\  (  \`--.
-hjw  \`@_@'/  _)  >--.`.  "it works on my machine."
-    _{.:Y:_}_{{_,'    ) )   — me, every single time
-   {_}`-^{_} ```     (_/
-
+       /\_____/\
+      /  o   o  \
+     ( ==  ^  == )    "it works on my machine."
+      )         (        -- me, every single time
+     (           )
+    ( (  )   (  ) )
+   (__(__)___(__)__)
 ```
 
 </div>
