@@ -16,8 +16,8 @@
 ```
        /\_____/\
       /  o   o  \
-     ( ==  ^  == )    "it works on my machine."
-      )         (        -- me, every single time
+     ( ==  ^  == )    
+      )         (        
      (           )
     ( (  )   (  ) )
    (__(__)___(__)__)
